@@ -68,5 +68,5 @@ enable = true
 URL = "https://www.facebook.com/mtinet"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#https://github.com/mtinet"
+URL = "https://github.com/mtinet"
 icon = "ti-github"
