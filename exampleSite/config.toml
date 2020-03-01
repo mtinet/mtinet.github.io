@@ -65,7 +65,7 @@ enable = true
 [params.search]
 enable = true
 [[params.social]]
-URL = "#https://www.facebook.com/mtinet"
+URL = "https://www.facebook.com/mtinet"
 icon = "ti-facebook"
 [[params.social]]
 URL = "#https://github.com/mtinet"
