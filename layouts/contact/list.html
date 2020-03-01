@@ -1,9 +1,5 @@
 {{ define "main" }}
 
-<!-- 페이지가 JSON 응답/결과로 변경되지 않도록 하려면 ***AJAX***를 사용하여 양식을 제출해야 합니다.-->
-<script data-cfasync="false" type="text/javascript"
-src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>
-
 <section class="section">
   <div class="container">
     <div class="row">
@@ -21,19 +17,10 @@ src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-
           <div class="col-12">
             <textarea name="message" id="message" class="form-control mb-4" placeholder="Message..."></textarea>
           </div>
-
           <div class="col-12">
-            <button class="btn btn-primary">Submit</button>
-          </div>
-
-          <div style="display:none" class="thankyou_message">
-           
-            <!-- You can customize the thankyou message by editing the code below -->
-            <!-- 메일을 보내줘서 감사한다는 메시지 띄우기 -->
-           <h2><em>Thanks</em> for contacting us! We will get back to you soon!
-           </h2>
-          </div>
-          
+            <input type="submit" value="로그인">
+            //<button class="btn btn-primary">Submit</button>
+          </div>          
         </form>
       </div>
     </div>
