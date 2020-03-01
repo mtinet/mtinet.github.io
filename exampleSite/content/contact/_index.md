@@ -1,7 +1,14 @@
 ---
-title: "Contact"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-image: "images/contact.jpg"
+title: Contact
+date: 
+description: Contact
+image: images/contact.jpg
+
 ---
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.<br><br>When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+기술을 사랑합니다. 
+
+2013년 이후로 아두이노, 마이크로비트 등의 피지컬 컴퓨팅에 관심이 있었으며, 요즘 주로 관심이 있는 부분은 컴퓨트 비전을 활용한 피지컬 컴퓨팅과 금속을 활용하는 하드웨어 제작입니다. 
+
+비슷한 관심사를 가지고 계신분과 소통을 하고 싶습니다. 그리고, 공간이 부족하다면 영등포고등학교 메이커스페이스 [Camp 51.9](https://place.map.kakao.com/8010789)로 놀러오세요. 
+
+이메일을 먼저 보내주셔도 좋습니다. 
